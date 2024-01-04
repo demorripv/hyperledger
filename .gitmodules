@@ -1,0 +1,39 @@
+[submodule "aries-framework-go"]
+	path = aries-framework-go
+	url = https://github.com/hyperledger/aries-framework-go
+[submodule "fabric"]
+	path = fabric
+	url = https://github.com/hyperledger/fabric
+[submodule "fabric-amcl"]
+	path = fabric-amcl
+	url = https://github.com/hyperledger/fabric-amcl
+[submodule "fabric-chaincode-go"]
+	path = fabric-chaincode-go
+	url = https://github.com/hyperledger/fabric-chaincode-go
+[submodule "fabric-config"]
+	path = fabric-config
+	url = https://github.com/hyperledger/fabric-config
+[submodule "fabric-contract-api-go"]
+	path = fabric-contract-api-go
+	url = https://github.com/hyperledger/fabric-contract-api-go
+[submodule "fabric-gateway"]
+	path = fabric-gateway
+	url = https://github.com/hyperledger/fabric-gateway
+[submodule "fabric-lib-go"]
+	path = fabric-lib-go
+	url = https://github.com/hyperledger/fabric-lib-go
+[submodule "fabric-private-chaincode"]
+	path = fabric-private-chaincode
+	url = https://github.com/hyperledger/fabric-private-chaincode
+[submodule "fabric-protos-go"]
+	path = fabric-protos-go
+	url = https://github.com/hyperledger/fabric-protos-go
+[submodule "fabric-protos-go-apiv2"]
+	path = fabric-protos-go-apiv2
+	url = https://github.com/hyperledger/fabric-protos-go-apiv2
+[submodule "fabric-samples"]
+	path = fabric-samples
+	url = https://github.com/hyperledger/fabric-samples
+[submodule "fabric-sdk-go"]
+	path = fabric-sdk-go
+	url = https://github.com/hyperledger/fabric-sdk-go
