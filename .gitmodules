@@ -33,7 +33,7 @@
 	url = https://github.com/hyperledger/fabric-protos-go-apiv2
 [submodule "fabric-samples"]
 	path = fabric-samples
-	url = https://github.com/hyperledger/fabric-samples
+	url = https://github.com/demorripv/fabric-samples
 [submodule "fabric-sdk-go"]
 	path = fabric-sdk-go
-	url = https://github.com/hyperledger/fabric-sdk-go
+	url = https://github.com/demorripv/fabric-sdk-go
